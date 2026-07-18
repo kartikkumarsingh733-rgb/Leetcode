@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
