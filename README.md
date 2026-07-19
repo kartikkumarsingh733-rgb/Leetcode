@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0090-subsets-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
