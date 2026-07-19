@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -77,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
