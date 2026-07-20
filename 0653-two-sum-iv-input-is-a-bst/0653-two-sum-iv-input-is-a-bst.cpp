@@ -11,31 +11,53 @@
  */
 class Solution {
 public:
-    void func(TreeNode* root,vector<int> &arr){
-        if(root==NULL){
-            return ;
+    stack<TreeNode*> asc;
+    stack<TreeNode*> desc;
+    TreeNode* getbig(){
+        if(desc.empty()) return NULL;
+        TreeNode* big = desc.top();
+        desc.pop();
+        TreeNode* temp = big->left;
+        while(temp){
+            desc.push(temp);
+            temp = temp->right;
         }
-        func(root->left,arr);
-        arr.push_back(root->val);
-        func(root->right,arr);
-
-        return;
+        return big;
+    }
+    TreeNode* getsmall(){
+        if(asc.empty()) return NULL;
+        TreeNode* small = asc.top();
+        asc.pop();
+        TreeNode* temp = small->right;
+        while(temp){
+            asc.push(temp);
+            temp = temp->left;
+        }
+        return small;
     }
     bool findTarget(TreeNode* root, int k) {
-        vector<int> arr;
-        func(root,arr);
-        for(auto it:arr){
-            cout<<it<<" ";
+        TreeNode* t= root;
+        while(t){
+            asc.push(t);
+            t = t->left;
         }
-        int i=0;
-        int j=arr.size()-1;
-        while(i<j){
-            int sum = arr[i]+arr[j];
+        t=root;
+        while(t){
+            desc.push(t);
+            t = t->right;
+        }
+        TreeNode* i = getsmall();
+        TreeNode* j = getbig();
+        while(i&&j&&i!=j&&i->val<j->val){
+            int sum = i->val+j->val;
             if(sum==k) return true;
-            else if(sum<k) i++;
-            else j--;
+            else if(sum<k){
+                i = getsmall();
+            }
+            else{
+                j = getbig();
+            }
         }
-
         return false;
     }
 };
