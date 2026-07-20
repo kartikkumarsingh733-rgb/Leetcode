@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Array
 |  |
@@ -60,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
 | ------- |
@@ -83,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Stack
 |  |
@@ -107,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
