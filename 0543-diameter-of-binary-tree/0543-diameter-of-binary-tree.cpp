@@ -1,29 +1,22 @@
 class Solution {
 public:
-    // Function to compute max depth of a subtree
-    int maxl(TreeNode* root) {
-        if (root == NULL) return 0;
-        return 1 + max(maxl(root->left), maxl(root->right));
-    }
+    int diameter = 0;
 
-    // Function to compute diameter
-    void func(TreeNode* root, int &res) {
-        if (root == NULL) return;
+    int depth(TreeNode* root) {
+        if (!root) return 0;
 
-        int leftDepth = maxl(root->left);
-        int rightDepth = maxl(root->right);
+        int left = depth(root->left);
+        int right = depth(root->right);
 
-        // Update diameter
-        res = max(res, leftDepth + rightDepth);
+        // Update diameter: longest path through this node
+        diameter = max(diameter, left + right);
 
-        // Recurse on children
-        func(root->left, res);
-        func(root->right, res);
+        // Return height of subtree
+        return 1 + max(left, right);
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        int res = 0;
-        func(root, res);
-        return res;
+        depth(root);
+        return diameter;
     }
 };
