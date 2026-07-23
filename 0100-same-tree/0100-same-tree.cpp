@@ -9,19 +9,16 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-#define node TreeNode
 class Solution {
 public:
-    bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(p==NULL&&q==NULL) return true;
-        if(p==NULL&&q!=NULL||p!=NULL&&q==NULL){
-            return false;
-        }
-        if(p->val!=q->val){
-            return false;
-        }
-        if(isSameTree(p->left,q->left)&&isSameTree(p->right,q->right)) return true;
+    bool func(TreeNode* p,TreeNode* q){
+        if(!p&&!q) return true;
+        if(!p || !q) return false;
+        if(p->val!=q->val) return false;
 
-        return false;
+        return(func(p->left,q->left)&&func(p->right,q->right));
+    }
+    bool isSameTree(TreeNode* p, TreeNode* q) {
+        return func(p,q);
     }
 };
