@@ -7,25 +7,29 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+
 class Solution {
 public:
-    TreeNode* ans = NULL;
-    int fun(TreeNode* node,TreeNode* p,TreeNode* q){
-        if(node==NULL){
-            return 0;
+    TreeNode* ans = NULL;   
+
+    int func(TreeNode* root, TreeNode* p, TreeNode* q) {
+        if (root == NULL) return 0;   
+
+        int left = func(root->left, p, q);
+        int right = func(root->right, p, q);
+
+        int self = (root == p || root == q) ? 1 : 0;
+        int total = left + right + self;
+
+        if (!ans && total == 2) {
+            ans = root;
         }
-        int left = fun(node->left,p,q);
-        int right = fun(node->right,p,q);
-        int self = 0;
-        if(node==p||node==q) self = 1;
-        int total = self + left + right;
-        if(total==2&&ans==NULL){
-            ans=node;
-        }
+
         return total;
     }
+
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        int t = fun(root,p,q);
+        func(root, p, q);
         return ans;
     }
 };
