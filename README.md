@@ -77,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0189-rotate-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
