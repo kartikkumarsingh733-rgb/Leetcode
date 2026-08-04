@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0455-assign-cookies](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -264,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0735-asteroid-collision) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
