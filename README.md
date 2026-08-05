@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Stack
 |  |
 | ------- |
