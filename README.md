@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Stack
 |  |
