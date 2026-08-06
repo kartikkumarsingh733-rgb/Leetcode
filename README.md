@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/3731-find-missing-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Stack
 |  |
 | ------- |
