@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -255,12 +256,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Union-Find
 |  |
