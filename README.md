@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0048-rotate-image) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
