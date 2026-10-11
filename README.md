@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1927-sum-game](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
