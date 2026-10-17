@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0695-max-area-of-island) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/1609-even-odd-tree) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0455-assign-cookies](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0695-max-area-of-island](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/kartikkumarsingh733-rgb/Leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
